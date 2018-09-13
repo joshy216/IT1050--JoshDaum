@@ -1,0 +1,14 @@
+C:\Users\jdaum\source\repos\Lab-W1\Lab-W1\bin\Debug\Lab-W1.exe.config
+C:\Users\jdaum\source\repos\Lab-W1\Lab-W1\bin\Debug\Lab-W1.exe
+C:\Users\jdaum\source\repos\Lab-W1\Lab-W1\bin\Debug\Lab-W1.pdb
+C:\Users\jdaum\source\repos\Lab-W1\Lab-W1\obj\Debug\Lab-W1.csprojAssemblyReference.cache
+C:\Users\jdaum\source\repos\Lab-W1\Lab-W1\obj\Debug\Lab-W1.csproj.CoreCompileInputs.cache
+C:\Users\jdaum\source\repos\Lab-W1\Lab-W1\obj\Debug\Lab-W1.exe
+C:\Users\jdaum\source\repos\Lab-W1\Lab-W1\obj\Debug\Lab-W1.pdb
+C:\Users\jdaum\source\repos\IT1050-JoshDaum\Lab-W1\Lab-W1\bin\Debug\Lab-W1.exe.config
+C:\Users\jdaum\source\repos\IT1050-JoshDaum\Lab-W1\Lab-W1\bin\Debug\Lab-W1.exe
+C:\Users\jdaum\source\repos\IT1050-JoshDaum\Lab-W1\Lab-W1\bin\Debug\Lab-W1.pdb
+C:\Users\jdaum\source\repos\IT1050-JoshDaum\Lab-W1\Lab-W1\obj\Debug\Lab-W1.csprojAssemblyReference.cache
+C:\Users\jdaum\source\repos\IT1050-JoshDaum\Lab-W1\Lab-W1\obj\Debug\Lab-W1.csproj.CoreCompileInputs.cache
+C:\Users\jdaum\source\repos\IT1050-JoshDaum\Lab-W1\Lab-W1\obj\Debug\Lab-W1.exe
+C:\Users\jdaum\source\repos\IT1050-JoshDaum\Lab-W1\Lab-W1\obj\Debug\Lab-W1.pdb
