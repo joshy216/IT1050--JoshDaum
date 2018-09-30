@@ -1,0 +1,7 @@
+C:\Users\jdaum\source\repos\LabW4-JoshDaum\LabW4-JoshDaum\bin\Debug\LabW4-JoshDaum.exe.config
+C:\Users\jdaum\source\repos\LabW4-JoshDaum\LabW4-JoshDaum\bin\Debug\LabW4-JoshDaum.exe
+C:\Users\jdaum\source\repos\LabW4-JoshDaum\LabW4-JoshDaum\bin\Debug\LabW4-JoshDaum.pdb
+C:\Users\jdaum\source\repos\LabW4-JoshDaum\LabW4-JoshDaum\obj\Debug\LabW4-JoshDaum.csprojAssemblyReference.cache
+C:\Users\jdaum\source\repos\LabW4-JoshDaum\LabW4-JoshDaum\obj\Debug\LabW4-JoshDaum.csproj.CoreCompileInputs.cache
+C:\Users\jdaum\source\repos\LabW4-JoshDaum\LabW4-JoshDaum\obj\Debug\LabW4-JoshDaum.exe
+C:\Users\jdaum\source\repos\LabW4-JoshDaum\LabW4-JoshDaum\obj\Debug\LabW4-JoshDaum.pdb
