@@ -1,0 +1,7 @@
+C:\Users\jdaum\source\repos\IT1050LabW6JoshDaum\IT1050LabW6JoshDaum\bin\Debug\IT1050LabW6JoshDaum.exe.config
+C:\Users\jdaum\source\repos\IT1050LabW6JoshDaum\IT1050LabW6JoshDaum\bin\Debug\IT1050LabW6JoshDaum.exe
+C:\Users\jdaum\source\repos\IT1050LabW6JoshDaum\IT1050LabW6JoshDaum\bin\Debug\IT1050LabW6JoshDaum.pdb
+C:\Users\jdaum\source\repos\IT1050LabW6JoshDaum\IT1050LabW6JoshDaum\obj\Debug\IT1050LabW6JoshDaum.csprojAssemblyReference.cache
+C:\Users\jdaum\source\repos\IT1050LabW6JoshDaum\IT1050LabW6JoshDaum\obj\Debug\IT1050LabW6JoshDaum.csproj.CoreCompileInputs.cache
+C:\Users\jdaum\source\repos\IT1050LabW6JoshDaum\IT1050LabW6JoshDaum\obj\Debug\IT1050LabW6JoshDaum.exe
+C:\Users\jdaum\source\repos\IT1050LabW6JoshDaum\IT1050LabW6JoshDaum\obj\Debug\IT1050LabW6JoshDaum.pdb
