@@ -1,0 +1,7 @@
+C:\Users\jdaum\source\repos\IT1050Fall2018JoshDaumLab09\IT1050Fall2018JoshDaumLab09\bin\Debug\IT1050Fall2018JoshDaumLab09.exe.config
+C:\Users\jdaum\source\repos\IT1050Fall2018JoshDaumLab09\IT1050Fall2018JoshDaumLab09\bin\Debug\IT1050Fall2018JoshDaumLab09.exe
+C:\Users\jdaum\source\repos\IT1050Fall2018JoshDaumLab09\IT1050Fall2018JoshDaumLab09\bin\Debug\IT1050Fall2018JoshDaumLab09.pdb
+C:\Users\jdaum\source\repos\IT1050Fall2018JoshDaumLab09\IT1050Fall2018JoshDaumLab09\obj\Debug\IT1050Fall2018JoshDaumLab09.csprojAssemblyReference.cache
+C:\Users\jdaum\source\repos\IT1050Fall2018JoshDaumLab09\IT1050Fall2018JoshDaumLab09\obj\Debug\IT1050Fall2018JoshDaumLab09.csproj.CoreCompileInputs.cache
+C:\Users\jdaum\source\repos\IT1050Fall2018JoshDaumLab09\IT1050Fall2018JoshDaumLab09\obj\Debug\IT1050Fall2018JoshDaumLab09.exe
+C:\Users\jdaum\source\repos\IT1050Fall2018JoshDaumLab09\IT1050Fall2018JoshDaumLab09\obj\Debug\IT1050Fall2018JoshDaumLab09.pdb
