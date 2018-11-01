@@ -11,6 +11,8 @@ namespace IT1050Fall2018JoshDaumLab09
         public double x;
         public double y;
         public double result;
+	public string operation;
+	public string output;
 
         public MyMath(double operand1, double operand2)
         {
@@ -20,32 +22,46 @@ namespace IT1050Fall2018JoshDaumLab09
 
         public void Multiply()
         {
-            Console.Write(x + " * " + y);
             result = x * y;
+	        operation = "multiply";
         }
 
         public void Divide()
         {
-            Console.Write(x + " / " + y);
             result = x / y;
+	        operation = "divide";
         }
 
         public void Add()
         {
-            Console.Write(x + " + " + y);
             result = x + y;
+	        operation = "add";
         }
 
         public void Subtract()
         {
-            Console.Write(x + " - " + y);
             result = x - y;
+	        operation = "subtract";
         }
 
         public void GetResult()
         {
-            Console.Write(" = " + result);
-            Console.WriteLine();
+	    switch (operation) {
+		    case "multiply":
+			    output = x + " * " + y + " = " + result;
+			    break;
+		    case "divide":
+			    output = x + " / " + y + " = " + result;
+			    break;
+		    case "add":
+			    output = x + " + " + y + " = " + result;
+			    break;
+		    case "subtract":
+			    output = x + " - " + y + " = " + result;
+			    break;
+		}
+
+            Console.WriteLine(output);
         }
 
     }
